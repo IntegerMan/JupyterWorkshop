@@ -25,6 +25,14 @@ If you have issues installing these pre-requisites in advance, please reach out 
 
 You may also be able to follow along with an active internet connection and a cloud-hosted notebook on [Anaconda Cloud](https://anaconda.cloud/) or other services.
 
+I'd also recommend you run the notebook cells at the beginning of the [02_DataDownload.ipynb](Notebooks/02_DataDownload.ipynb) notebook to download and extract data files for the workshop with a reliable internet connection. Alternatively, you can download the data manually and extract it into the `Data` directory.
+
+## Data Source
+
+The workshop will analyze data from the [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data) dataset on [Kaggle](https://Kaggle.com) uploaded by Martin Ellis in 2021.
+
+![Table Relationships](Data/table_relationships.jpeg)
+
 ## Agenda
 
 We will be focusing on the following major areas:
@@ -36,8 +44,3 @@ We will be focusing on the following major areas:
 - **Machine Learning with SciKit-Learn** - We'll perform a classification experiment and a regression experiment on our dataset
 - **Closing thoughts** - We'll close by talking about fairness and transparency in models, ethical issues in model training, data drift and MlOps, and other technologies that use Jupyter Notebooks as a foundation
 
-## Data Source
-
-The workshop will analyze data from the [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data) dataset on [Kaggle](https://Kaggle.com) uploaded by Martin Ellis in 2021. This data has been saved in the `Data` folder of this repository for convenience.
-
-![Table Relationships](Data/table_relationships.jpeg)
