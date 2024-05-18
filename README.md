@@ -35,3 +35,9 @@ We will be focusing on the following major areas:
 - **Data Cleaning and Feature Engineering** - We'll use Pandas and NumPy to transform our dataset and address data cleanliness issues in our data.
 - **Machine Learning with SciKit-Learn** - We'll perform a classification experiment and a regression experiment on our dataset
 - **Closing thoughts** - We'll close by talking about fairness and transparency in models, ethical issues in model training, data drift and MlOps, and other technologies that use Jupyter Notebooks as a foundation
+
+## Data Source
+
+The workshop will analyze data from the [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data) dataset on [Kaggle](https://Kaggle.com) uploaded by Martin Ellis in 2021. This data has been saved in the `Data` folder of this repository for convenience.
+
+![Table Relationships](Data/table_relationships.jpeg)
