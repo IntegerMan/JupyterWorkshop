@@ -29,7 +29,7 @@ I'd also recommend you run the notebook cells at the beginning of the [02_DataDo
 
 ## Data Source
 
-The workshop will analyze data from the [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data) dataset on [Kaggle](https://Kaggle.com) uploaded by Martin Ellis in 2021.
+The workshop will analyze data from the [NHL Game Data](https://www.kaggle.com/datasets/martinellis/nhl-game-data) dataset on [Kaggle](https://Kaggle.com) uploaded by Martin Ellis in 2021. The data included in the `Data` directory has been filtered down to just data from 2018 and excludes data on faceoffs and stoppages.
 
 ![Table Relationships](Data/table_relationships.jpeg)
 
