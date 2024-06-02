@@ -161,4 +161,4 @@ cython_debug/
 
 # These files are too large to version control without GitLFS and I don't want people to need that for a workshop
 *.zip
-*.csv
+DataPrep/*
