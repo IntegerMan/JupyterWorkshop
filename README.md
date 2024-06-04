@@ -44,3 +44,13 @@ We will be focusing on the following major areas:
 - **Machine Learning with SciKit-Learn** - We'll perform a classification experiment and a regression experiment on our dataset
 - **Closing thoughts** - We'll close by talking about fairness and transparency in models, ethical issues in model training, data drift and MlOps, and other technologies that use Jupyter Notebooks as a foundation
 
+### Time Allocations
+
+- 0.0 - 0.5 Hours - Intro and Notebooks 101
+- 0.5 - 1.0 Hours - EDA
+- 1.0 - 1.3 Hours - Data Cleaning
+- 1.3 - 1.5 Hours - BREAK 1
+- 1.5 - 2.0 Hours - Data Vis
+- 2.0 - 2.6 Hours - Classification
+- 2.6 - 3.0 Hours - Regression
+- 3.0 - 3.5 Hours - Final Thoughts, Q&A, and additional topics of interest
